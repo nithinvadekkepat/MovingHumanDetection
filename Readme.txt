@@ -1,0 +1,1 @@
+This is the program for moving human detection. The system will segment the moving objects and raise an alarm if the moving object is a human
